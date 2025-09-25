@@ -1,0 +1,13 @@
+# C# files
+*.cs.user
+*.suo
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Rider files
+.idea/
+
+# Visual Studio files
+.vs/
